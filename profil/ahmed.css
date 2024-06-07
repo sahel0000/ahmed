@@ -1,0 +1,63 @@
+
+.ana{
+    border: red;
+    
+    border-radius: 5000000px;
+    background-image: black;
+}
+#ahmed{
+    margin-left: 500px;
+    
+  
+}
+#moi{
+    margin-left: 30px;
+  margin-bottom:200px ;
+    margin-right: 20px;
+    border: 55px ;
+    padding: 20px;
+ 
+
+}
+.lj{
+    width: 250px;
+    height: 400px;
+}
+#lj{
+    margin-bottom: 900px;
+    margin-left: 200px;
+}
+.lp{
+    width: 250px;
+    height: 400px;
+    margin-left: 400px;
+}
+.lm{
+    margin-bottom: px;
+    margin-left: 350px;
+}
+
+.moii{
+    font-size: large;
+    font-style: italic;
+    font-size: 50px;
+   
+    color: brown;
+}
+.moiii{
+    font-size: large;
+    font-style: italic;
+    font-size: 70px;
+    color: brown;
+    margin-left: 450px;
+   
+
+}
+.moiiii{
+    color: brown;
+    
+}
+
+body{
+   background-color:rgb(13, 4, 63) ;
+}
